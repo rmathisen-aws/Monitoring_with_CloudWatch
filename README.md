@@ -2,7 +2,7 @@
 
 **Launch an EC2 Instance to Monitor:**\
 EC2 → Launch Instance → Launch Instance \
-Linux 2 AMI \
+Linux 2 AMI SSD (x86) \
 t2.micro
 
 Network: Default VPC \
