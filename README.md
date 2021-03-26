@@ -90,6 +90,7 @@ This will cancel the Stress Test
 Refresh the Graph multiple times until you see the alarm move to "OK" state
 
 \
+\
 **Clean Up!!**
 CloudWatch → Alarms → select CPUUsageOver15Percent → Actions → Delete → Delete
 
