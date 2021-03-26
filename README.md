@@ -91,7 +91,7 @@ Refresh the Graph multiple times until you see the alarm move to "OK" state
 
 \
 \
-**Clean Up!!**
+**Clean Up!!** \
 CloudWatch → Alarms → select CPUUsageOver15Percent → Actions → Delete → Delete
 
 EC2 → Instances → Right Click cloudwatchEC2 Instance → Terminate Instance → Terminate
